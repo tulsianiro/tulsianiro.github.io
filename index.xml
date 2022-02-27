@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rohan Tulsiani Portfolio on Rohan Tulsiani</title>
+    <link>https://tulsianiro.github.io/portfolio/</link>
+    <description>Recent content in Rohan Tulsiani Portfolio on Rohan Tulsiani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 May 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://tulsianiro.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Campfire LD46</title>
+      <link>https://tulsianiro.github.io/portfolio/post/campfire-ld46/</link>
+      <pubDate>Sat, 09 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://tulsianiro.github.io/portfolio/post/campfire-ld46/</guid>
+      <description>&lt;p&gt;Campfire is a 2D platformer where you carry a lamp through a forest. As your lamp dies out, you lose vision of your surroundings. Rush from campfire to campfire to keep your lamp alive as you make your way to the end.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key Features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Basic Level Editing Functionality/Tooling&lt;/li&gt;
+&lt;li&gt;2D Sprite Sheet Animation State Machine&lt;/li&gt;
+&lt;li&gt;2D Custom Lighting&lt;/li&gt;
+&lt;li&gt;Platforming Mechanics and Physics&lt;/li&gt;
+&lt;li&gt;Audio System with Pooled Voices&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Game Engine in DX11</title>
+      <link>https://tulsianiro.github.io/portfolio/post/engine/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://tulsianiro.github.io/portfolio/post/engine/</guid>
+      <description>&lt;p&gt;Game Engine written in DX11. Supports various common Engine features, such as Skeletal Animation, Post FX like Bloom and Gaussian Blur, and more.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key Features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Normal Mapping&lt;/li&gt;
+&lt;li&gt;Skeletal Animation&lt;/li&gt;
+&lt;li&gt;Job System&lt;/li&gt;
+&lt;li&gt;Material System&lt;/li&gt;
+&lt;li&gt;Phong Lighting&lt;/li&gt;
+&lt;li&gt;Post FX (Bloom, Gaussian Blur)&lt;/li&gt;
+&lt;li&gt;Custom Memory Allocators&lt;/li&gt;
+&lt;li&gt;SIMD Math Library&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Heightmap Terrain Renderer</title>
+      <link>https://tulsianiro.github.io/portfolio/post/heightmap/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://tulsianiro.github.io/portfolio/post/heightmap/</guid>
+      <description>&lt;p&gt;Renders Heightmaps (Grayscale and RGB) in OpenGL, then allows the user to manipulate how that Heightmap is viewed in various ways.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key Features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Heightmap Rendering (Grayscale and RGB)&lt;/li&gt;
+&lt;li&gt;Texturing of Heightmap (Dynamically Calculate UV)&lt;/li&gt;
+&lt;li&gt;Dynamic Smoothing of Heightmap&lt;/li&gt;
+&lt;li&gt;Dynamic Calculation of Heightmap Normals&lt;/li&gt;
+&lt;li&gt;Blinn-Phong Lighting&lt;/li&gt;
+&lt;li&gt;User-Controlled Transformations of Heightmap&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Monte-Carlo Raytracer</title>
+      <link>https://tulsianiro.github.io/portfolio/post/raytracer/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://tulsianiro.github.io/portfolio/post/raytracer/</guid>
+      <description>&lt;p&gt;Monte-Carlo Raytracer with a Physically-Based BDRF.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key Features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Standard Raytracing with Point Lights&lt;/li&gt;
+&lt;li&gt;Monte-Carlo Raytracing with Area Lights&lt;/li&gt;
+&lt;li&gt;Phong Shading&lt;/li&gt;
+&lt;li&gt;Shading with Physically-Based BDRF&lt;/li&gt;
+&lt;li&gt;Multithreading&lt;/li&gt;
+&lt;li&gt;Bounding Volume Hierarchy Acceleration&lt;/li&gt;
+&lt;li&gt;Recursive Reflections&lt;/li&gt;
+&lt;li&gt;Hard &amp;amp; Soft Shadows&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Roller Coaster Simulation</title>
+      <link>https://tulsianiro.github.io/portfolio/post/rollercoaster/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://tulsianiro.github.io/portfolio/post/rollercoaster/</guid>
+      <description>&lt;p&gt;Roller Coaster Simulation in OpenGL using custom file format to specify Catmull-Rom spline segments.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key Features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Render Catmull-Rom Splines as Roller Coaster Track&lt;/li&gt;
+&lt;li&gt;Skybox Rendering&lt;/li&gt;
+&lt;li&gt;Blinn-Phong Lighting&lt;/li&gt;
+&lt;li&gt;Calculate Frenet-Frame of Track Dynamically&lt;/li&gt;
+&lt;li&gt;Custom Trackfile&lt;/li&gt;
+&lt;li&gt;Chain Multiple Tracks Together With C1 Continuity&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Shadow and Ambient Occlusion Demo</title>
+      <link>https://tulsianiro.github.io/portfolio/post/shadows/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://tulsianiro.github.io/portfolio/post/shadows/</guid>
+      <description>OpenGL Demo for Shadow Mapping with Percentage Closer Filtering (PCF) and Screen Space Ambient Occlusion</description>
+    </item>
+    
+    <item>
+      <title>UDP Tribes Networking Model Arena Battler Game</title>
+      <link>https://tulsianiro.github.io/portfolio/post/prime/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://tulsianiro.github.io/portfolio/post/prime/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Technologies:&lt;/strong&gt; C++, Lua, Python, TCP, UDP, Peforce, D3D11&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key Features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Navmesh Obstacle Navigation&lt;/li&gt;
+&lt;li&gt;Billboarded, Pooled Projectiles and index-based sampling from Texture&lt;/li&gt;
+&lt;li&gt;Physics for Characters and Projectiles&lt;/li&gt;
+&lt;li&gt;Server-Driven Object Loading&lt;/li&gt;
+&lt;li&gt;UDP Tribes Networking Stack
+&lt;ul&gt;
+&lt;li&gt;Based on &lt;a href=&#34;https://www.gamedevs.org/uploads/tribes-networking-model.pdf&#34;&gt;This Paper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Prediction, Rollback, and Re-Simulation for Networked Objects
+&lt;ul&gt;
+&lt;li&gt;The characters move immediately without waiting for server response, then correct themselves by re-simulating up to the current time if Server and Client disagree&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Time Synchronization between Clients and Server based on packet round trip time (RTT)&lt;/li&gt;
+&lt;li&gt;Rate Control of Packets (Dynamically Change Packet Size based on Network Conditions)&lt;/li&gt;
+&lt;li&gt;Network Debug Settings and Visualization
+&lt;ul&gt;
+&lt;li&gt;Simulated Packet Drop, Lag, etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://tulsianiro.github.io/portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tulsianiro.github.io/portfolio/contact/</guid>
+      <description>Email: rohantulsiani@gmail.com
+ YouTube  Hosts the demo videos you will find in the Project section of my portfolio.   GitHub  Some of the projects in the Project section can be found on GitHub as public repositories. Non GitHub-hosted code samples available upon request.    </description>
+    </item>
+    
+  </channel>
+</rss>
