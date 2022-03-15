@@ -8,42 +8,75 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://tulsianiro.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Campfire LD46</title>
-      <link>https://tulsianiro.github.io/post/campfire-ld46/</link>
-      <pubDate>Sat, 09 May 2020 10:58:08 -0400</pubDate>
+      <title>Multiplayer Arena Battler Game</title>
+      <link>https://tulsianiro.github.io/post/prime/</link>
+      <pubDate>Tue, 17 Nov 2020 11:00:59 -0400</pubDate>
       
-      <guid>https://tulsianiro.github.io/post/campfire-ld46/</guid>
-      <description>&lt;p&gt;Campfire is a 2D platformer where you carry a lamp through a forest. As your lamp dies out, you lose vision of your surroundings. Rush from campfire to campfire to keep your lamp alive as you make your way to the end.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Key Features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Basic Level Editing Functionality/Tooling&lt;/li&gt;
-&lt;li&gt;2D Sprite Sheet Animation State Machine&lt;/li&gt;
-&lt;li&gt;2D Custom Lighting&lt;/li&gt;
-&lt;li&gt;Platforming Mechanics and Physics&lt;/li&gt;
-&lt;li&gt;Audio System with Pooled Voices&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>https://tulsianiro.github.io/post/prime/</guid>
+      <description>Built an Arena Battler game that supports both UDP &amp;amp; TCP networking, then built a complete Tribes Networking stack on top of both protocols. Overall, a pretty well-rounded project that required knowledge about the CG pipeline, networking, debug visualizations, and more</description>
     </item>
     
     <item>
       <title>Game Engine in DX11</title>
       <link>https://tulsianiro.github.io/post/engine/</link>
-      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      <pubDate>Wed, 10 Jun 2020 11:00:59 -0400</pubDate>
       
       <guid>https://tulsianiro.github.io/post/engine/</guid>
-      <description>&lt;p&gt;Game Engine written in DX11. Supports various common Engine features, such as Skeletal Animation, Post FX like Bloom and Gaussian Blur, and more.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Key Features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Normal Mapping&lt;/li&gt;
-&lt;li&gt;Skeletal Animation&lt;/li&gt;
-&lt;li&gt;Job System&lt;/li&gt;
-&lt;li&gt;Material System&lt;/li&gt;
-&lt;li&gt;Phong Lighting&lt;/li&gt;
-&lt;li&gt;Post FX (Bloom, Gaussian Blur)&lt;/li&gt;
-&lt;li&gt;Custom Memory Allocators&lt;/li&gt;
-&lt;li&gt;SIMD Math Library&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Game Engine written in DX11. Supports various common Engine features, such as Skeletal Animation, Post FX like Bloom and Gaussian Blur, and more.</description>
+    </item>
+    
+    <item>
+      <title>Mocap Animation Interpolator and Visualizer</title>
+      <link>https://tulsianiro.github.io/post/mocap/</link>
+      <pubDate>Sun, 10 May 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://tulsianiro.github.io/post/mocap/</guid>
+      <description>Interpolates animations from CMU&amp;rsquo;s Motion Capture Database with Linear Euler, Bezier Euler, SLERP Quaternion, and Bezier SLERP Quaternion. Then, a Visualizer program can render those animations in a viewer complete with a scrubbable timeline, various rendering toggles, skeleton debug visualizations, and more.</description>
+    </item>
+    
+    <item>
+      <title>Monte-Carlo Raytracer</title>
+      <link>https://tulsianiro.github.io/post/raytracer/</link>
+      <pubDate>Sun, 10 May 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://tulsianiro.github.io/post/raytracer/</guid>
+      <description>Raytracer that supports both standard Phong shading and a slightly more complex paradigm using area-lights and a Physically Based BDRF. Also, includes Bounding Volume Hiearchies, Multithreading, Recursive Reflection, Soft Shadows, and Antialiasing.</description>
+    </item>
+    
+    <item>
+      <title>Shadow and Ambient Occlusion Demo</title>
+      <link>https://tulsianiro.github.io/post/shadows/</link>
+      <pubDate>Sun, 10 May 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://tulsianiro.github.io/post/shadows/</guid>
+      <description>Implementation of Shadow Mapping with Percentage Closer Filtering (PCF) and Screen Space Ambient Occlusion (SSAO) in OpenGL.</description>
+    </item>
+    
+    <item>
+      <title>Campfire LD46</title>
+      <link>https://tulsianiro.github.io/post/campfire-ld46/</link>
+      <pubDate>Sat, 09 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://tulsianiro.github.io/post/campfire-ld46/</guid>
+      <description>Campfire is a 2D platformer where you carry a lamp through a forest. As your lamp dies out, you lose vision of your surroundings. Rush from campfire to campfire to keep your lamp alive as you make your way to the end.</description>
+    </item>
+    
+    <item>
+      <title>Roller Coaster Simulation</title>
+      <link>https://tulsianiro.github.io/post/rollercoaster/</link>
+      <pubDate>Fri, 08 May 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://tulsianiro.github.io/post/rollercoaster/</guid>
+      <description>Roller Coaster Simulation in OpenGL using custom file format to specify Catmull-Rom spline segments.</description>
+    </item>
+    
+    <item>
+      <title>Jello Cube</title>
+      <link>https://tulsianiro.github.io/post/jellocube/</link>
+      <pubDate>Fri, 10 Apr 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://tulsianiro.github.io/post/jellocube/</guid>
+      <description>Simulation of a 3D Jello Cube using a Mass-Spring System. Further, the user can pick simulation points on the Jello Cube with the mouse to apply an interaction force to it; this force can be dissipated across the cube with a user-configurable falloff.</description>
     </item>
     
     <item>
@@ -52,99 +85,7 @@
       <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
       
       <guid>https://tulsianiro.github.io/post/heightmap/</guid>
-      <description>&lt;p&gt;Renders Heightmaps (Grayscale and RGB) in OpenGL, then allows the user to manipulate how that Heightmap is viewed in various ways.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Key Features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Heightmap Rendering (Grayscale and RGB)&lt;/li&gt;
-&lt;li&gt;Texturing of Heightmap (Dynamically Calculate UV)&lt;/li&gt;
-&lt;li&gt;Dynamic Smoothing of Heightmap&lt;/li&gt;
-&lt;li&gt;Dynamic Calculation of Heightmap Normals&lt;/li&gt;
-&lt;li&gt;Blinn-Phong Lighting&lt;/li&gt;
-&lt;li&gt;User-Controlled Transformations of Heightmap&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Monte-Carlo Raytracer</title>
-      <link>https://tulsianiro.github.io/post/raytracer/</link>
-      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
-      
-      <guid>https://tulsianiro.github.io/post/raytracer/</guid>
-      <description>&lt;p&gt;Monte-Carlo Raytracer with a Physically-Based BDRF.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Key Features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Standard Raytracing with Point Lights&lt;/li&gt;
-&lt;li&gt;Monte-Carlo Raytracing with Area Lights&lt;/li&gt;
-&lt;li&gt;Phong Shading&lt;/li&gt;
-&lt;li&gt;Shading with Physically-Based BDRF&lt;/li&gt;
-&lt;li&gt;Multithreading&lt;/li&gt;
-&lt;li&gt;Bounding Volume Hierarchy Acceleration&lt;/li&gt;
-&lt;li&gt;Recursive Reflections&lt;/li&gt;
-&lt;li&gt;Hard &amp;amp; Soft Shadows&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Roller Coaster Simulation</title>
-      <link>https://tulsianiro.github.io/post/rollercoaster/</link>
-      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
-      
-      <guid>https://tulsianiro.github.io/post/rollercoaster/</guid>
-      <description>&lt;p&gt;Roller Coaster Simulation in OpenGL using custom file format to specify Catmull-Rom spline segments.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Key Features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Render Catmull-Rom Splines as Roller Coaster Track&lt;/li&gt;
-&lt;li&gt;Skybox Rendering&lt;/li&gt;
-&lt;li&gt;Blinn-Phong Lighting&lt;/li&gt;
-&lt;li&gt;Calculate Frenet-Frame of Track Dynamically&lt;/li&gt;
-&lt;li&gt;Custom Trackfile&lt;/li&gt;
-&lt;li&gt;Chain Multiple Tracks Together With C1 Continuity&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Shadow and Ambient Occlusion Demo</title>
-      <link>https://tulsianiro.github.io/post/shadows/</link>
-      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
-      
-      <guid>https://tulsianiro.github.io/post/shadows/</guid>
-      <description>OpenGL Demo for Shadow Mapping with Percentage Closer Filtering (PCF) and Screen Space Ambient Occlusion</description>
-    </item>
-    
-    <item>
-      <title>UDP Tribes Networking Model Arena Battler Game</title>
-      <link>https://tulsianiro.github.io/post/prime/</link>
-      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
-      
-      <guid>https://tulsianiro.github.io/post/prime/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Technologies:&lt;/strong&gt; C++, Lua, Python, TCP, UDP, Peforce, D3D11&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Key Features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Navmesh Obstacle Navigation&lt;/li&gt;
-&lt;li&gt;Billboarded, Pooled Projectiles and index-based sampling from Texture&lt;/li&gt;
-&lt;li&gt;Physics for Characters and Projectiles&lt;/li&gt;
-&lt;li&gt;Server-Driven Object Loading&lt;/li&gt;
-&lt;li&gt;UDP Tribes Networking Stack
-&lt;ul&gt;
-&lt;li&gt;Based on &lt;a href=&#34;https://www.gamedevs.org/uploads/tribes-networking-model.pdf&#34;&gt;This Paper&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Prediction, Rollback, and Re-Simulation for Networked Objects
-&lt;ul&gt;
-&lt;li&gt;The characters move immediately without waiting for server response, then correct themselves by re-simulating up to the current time if Server and Client disagree&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Time Synchronization between Clients and Server based on packet round trip time (RTT)&lt;/li&gt;
-&lt;li&gt;Rate Control of Packets (Dynamically Change Packet Size based on Network Conditions)&lt;/li&gt;
-&lt;li&gt;Network Debug Settings and Visualization
-&lt;ul&gt;
-&lt;li&gt;Simulated Packet Drop, Lag, etc.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <description>Renders Heightmaps (Grayscale and RGB) in OpenGL, then allows the user to manipulate how that Heightmap is viewed in various ways.</description>
     </item>
     
   </channel>
